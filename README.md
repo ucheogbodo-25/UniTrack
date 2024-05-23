@@ -132,7 +132,7 @@ Thank You ❤️.
 
 ## Related
 
-[UniTrack_api](https://github.com/iafthab/kollege_api)
+[UniTrack_api](https://github.com/ucheogbodo-25/UniTrack_api)
 
 ## License
 
