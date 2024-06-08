@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-[kollege.onrender.com](https://kollege.onrender.com)
+[kollege.onrender.com](https://Kollege.onrender.com)
 
 A College Based Data Management System.
 
@@ -95,7 +95,7 @@ Finally,
 ### Using your own server and database
 
 The requests are send to the hosted server by default.  
-if you want to use your own server and database, follow the steps [here](https://github.com/iafthab/kollege_api#readme) to step up one.
+if you want to use your own server and database, follow the steps [here](https://github.com/ucheogbodo-25/Kollege_api#readme) to step up one.
 
 Then, go to src/config/api/axios.js. change the baseURL to your backend address:
 
@@ -132,7 +132,7 @@ Thank You ❤️.
 
 ## Related
 
-[kollege_api](https://github.com/UCHEOGBODO-25/kollege_api)
+[kollege_api](https://github.com/UCHEOGBODO-25/Kollege_api)
 
 ## License
 
