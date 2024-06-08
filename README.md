@@ -1,10 +1,10 @@
-# UNITRACK
+# KOLLEGE
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 [kollege.onrender.com](https://kollege.onrender.com)
 
-A University Based Data Management System.
+A College Based Data Management System.
 
 - There are two types of roles: Staff[Teacher,HOD] and Student.
 
@@ -71,13 +71,13 @@ Student can also join or leave a Paper(Subject).
 Clone the project:
 
 ```bash
-  git clone https://github.com/ucheogbodo-25/UniTrack.git
+  git clone https://github.com/ucheogbodo-25/kollege.git
 ```
 
 Change Directory:
 
 ```bash
-  cd UniTrack
+  cd kollege
 ```
 
 Install dependencies:
@@ -95,7 +95,7 @@ Finally,
 ### Using your own server and database
 
 The requests are send to the hosted server by default.  
-if you want to use your own server and database, follow the steps [here](https://github.com/ucheogbodo-25/UniTrack_api#readme) to step up one.
+if you want to use your own server and database, follow the steps [here](https://github.com/iafthab/kollege_api#readme) to step up one.
 
 Then, go to src/config/api/axios.js. change the baseURL to your backend address:
 
@@ -117,7 +117,7 @@ baseURL: "https://example.address.com";
 
 Errors are bound to happen and the documentation is incomplete.  
 I'd love to hear feedbacks and suggestions.  
-In any case, start a conversation: [LinkedIn](https://www.linkedin.com/) [Mail](ucheogbodo25@gmail.com)(Make sure your mail doesn't get flagged as spam/junk)  
+In any case, start a conversation: [LinkedIn](https://www.linkedin.com/in/OgbodoCyril) [Telegram](https://tttttt.me/LazySage01) [Mail](mailto:ucheogbodo25@gmail.com)(Make sure your mail doesn't get flagged as spam/junk)  
 Thank You ❤️.
 
 ## Acknowledgements
@@ -132,7 +132,7 @@ Thank You ❤️.
 
 ## Related
 
-[UniTrack_api](https://github.com/ucheogbodo-25/UniTrack_api)
+[kollege_api](https://github.com/UCHEOGBODO-25/kollege_api)
 
 ## License
 
